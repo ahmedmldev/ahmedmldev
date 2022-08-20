@@ -27,6 +27,5 @@
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=agghonei&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agghonei&layout=compact&count_private=true&theme=gruvbox" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=agghonei.agghonei)
