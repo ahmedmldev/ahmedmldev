@@ -24,8 +24,18 @@
   ![CircleCI]( https://img.shields.io/badge/CircleCI-black?style=flat-square&logo=circleci)
   ![Teradata]( https://img.shields.io/badge/Teradata-black?style=flat-square&logo=teradata)
 
+## 💡 Badges
+
+[![CERT1]( https://images.credly.com/size/125x225/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png )]( https://www.credly.com/badges/711f239e-4eb3-46e2-8268-c9f2d4cf253b/public_url )
+[![CERT2]( https://images.credly.com/size/125x225/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png )]( https://www.credly.com/badges/c3f1743d-39eb-4025-8469-6968b07ff776/public_url )
+[![CERT3]( https://images.credly.com/size/125x225/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png )]( https://www.credly.com/badges/569f7754-caa3-46de-bc90-14629617492f/public_url )
+
+## 📚 Publications
+
+* [IEEE - Multiple Subscriber-Identity-Module Detection Using Social Network Analysis Techniques]( https://ieeexplore.ieee.org/document/7022677 )
+
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=agghonei&show_icons=true&count_private=true&theme=gruvbox" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=agghonei.agghonei)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=agghonei&countColor=%23263759)](https://visitorbadge.io/status?path=agghonei)
