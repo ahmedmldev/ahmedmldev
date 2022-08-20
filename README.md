@@ -8,7 +8,7 @@
   ![C]( https://img.shields.io/badge/-black?style=flat-square&logo=c)
   ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
   ![Scala]( https://img.shields.io/badge/Scala-black?style=flat-square&logo=scala)
-  ![SQL]( https://img.shields.io/badge/SQL-black?style=flat-square&logo=sql)
+  ![SQL]( https://img.shields.io/badge/SQL-purple?style=flat-square&logo=sql)
   ![R]( https://img.shields.io/badge/-black?style=flat-square&logo=r)
   ![Julia]( https://img.shields.io/badge/Julia-black?style=flat-square&logo=julia)
   ![Go]( https://img.shields.io/badge/Go-black?style=flat-square&logo=go)
