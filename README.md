@@ -23,6 +23,8 @@
   ![Amazon EC2]( https://img.shields.io/badge/Amazon%20EC2-black?style=flat-square&logo=amazon-ec2)
   ![CircleCI]( https://img.shields.io/badge/CircleCI-black?style=flat-square&logo=circleci)
   ![Teradata]( https://img.shields.io/badge/Teradata-black?style=flat-square&logo=teradata)
+  ![Docker]( https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+  ![Kubernetes]( https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes)
 
 ## 💡 Badges
 
