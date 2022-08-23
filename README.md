@@ -1,5 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-###### I´m Ahmed, a hands-on engineering manager based in Germany, and specialized in data engineering and machine learning. I love researching topics in the fields of computational biology, computational neuroscience, graph analytics, and natural language processing. I'm also interested in the e-learning domain and its innovations.
+###### I´m Ahmed, a hands-on engineering manager in Germany, specialized in data engineering and machine learning. I love researching topics and experimenting with ideas in the fields of computational biology, computational neuroscience, graph analytics, natural language processing, and e-learning.
 
 [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/ahmaher/)
 
