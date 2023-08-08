@@ -42,6 +42,7 @@
 [![CERT1]( https://images.credly.com/size/125x225/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png )]( https://www.credly.com/badges/711f239e-4eb3-46e2-8268-c9f2d4cf253b/public_url )
 [![CERT2]( https://images.credly.com/size/125x225/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png )]( https://www.credly.com/badges/c3f1743d-39eb-4025-8469-6968b07ff776/public_url )
 [![CERT3]( https://images.credly.com/size/125x225/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png )]( https://www.credly.com/badges/569f7754-caa3-46de-bc90-14629617492f/public_url )
+[![CERT4]( https://images.credly.com/size/125x225/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png )]( [https://www.credly.com/badges/569f7754-caa3-46de-bc90-14629617492f/public_url](https://www.credly.com/badges/65afb1d7-c994-44c0-8c2c-592898f94530/public_url) )
 
 ## 📚 Publications
 
