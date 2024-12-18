@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ###### I´m Ahmed, a hands-on senior engineering manager in Germany, specialized in data engineering and machine learning. I love researching topics and experimenting with ideas in the fields of robotics, computational biology, computational neuroscience, graph analytics, telemetry, computer vision, and edu-tech.
 
-[![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/ahmaher/)
+[![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/ahmedmldev/)
 
 
 ## 🚀💻 Tech Interests
