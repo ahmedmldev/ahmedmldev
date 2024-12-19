@@ -36,6 +36,9 @@
   ![Amazon SQS]( https://img.shields.io/badge/Amazon%20SQS-black?style=flat-square&logo=amazon-sqs)
   ![AWS Fargate]( https://img.shields.io/badge/AWS%20Fargate-black?style=flat-square&logo=aws-fargate)
   ![LangChain]( https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain)
+  ![PyTorch]( https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)
+  ![Blockchain]( https://img.shields.io/badge/Blockchain-black?style=flat-square&logo=blockchain)
+  
 
 
 ## 💡 Badges
