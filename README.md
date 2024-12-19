@@ -35,6 +35,7 @@
   ![Amazon DynamoDB]( https://img.shields.io/badge/Amazon%20DynamoDB-black?style=flat-square&logo=amazon-dynamodb)
   ![Amazon SQS]( https://img.shields.io/badge/Amazon%20SQS-black?style=flat-square&logo=amazon-sqs)
   ![AWS Fargate]( https://img.shields.io/badge/AWS%20Fargate-black?style=flat-square&logo=aws-fargate)
+  ![LangChain]( https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain)
 
 
 ## 💡 Badges
