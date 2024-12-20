@@ -37,7 +37,7 @@
   ![AWS Fargate]( https://img.shields.io/badge/AWS%20Fargate-black?style=flat-square&logo=aws-fargate)
   ![LangChain]( https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain)
   ![PyTorch]( https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)
-  ![Blockchain]( https://img.shields.io/badge/Blockchain-navy?style=flat-square&logo=blockchain)
+  ![Streamlit]( https://img.shields.io/badge/Streamlit-navy?style=flat-square&logo=streamlit)
   ![Godot]( https://img.shields.io/badge/Godot-black?style=flat-square&logo=godot)
   
 
