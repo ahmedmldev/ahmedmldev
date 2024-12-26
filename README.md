@@ -16,6 +16,7 @@
   ![Apache Spark]( https://img.shields.io/badge/Apache%20Spark-black?style=flat-square&logo=apache-spark)
   ![Apache Kafka]( https://img.shields.io/badge/Apache%20Kafka-black?style=flat-square&logo=apache-kafka)
   ![Apache Flink]( https://img.shields.io/badge/Apache%20Flink-black?style=flat-square&logo=apache-flink)
+  ![Apache Beam]( https://img.shields.io/badge/Apache%20Beam-black?style=flat-square&logo=apache-beam)
   ![Amazon EMR]( https://img.shields.io/badge/Amazon%20EMR-maroon?style=flat-square&logo=amazon-emr)
   ![Neo4j]( https://img.shields.io/badge/Neo4j-black?style=flat-square&logo=neo4j)
   ![Docker]( https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
